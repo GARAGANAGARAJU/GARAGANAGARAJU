@@ -1,12 +1,12 @@
-# 👋 Hi, I'm **Naga Raju** (GARAGANAGARAJU)  
-### *DevOps Engineer | Cloud & Automation Enthusiast*  
+# 👋 Hi, I'm **GARAGA NAGARAJU**  
+### *DevOps Engineer | Cloud & Sre*  
 
 📍 **Hyderabad, India** | 📧 [maga322@gmail.com](mailto:maga322@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/garaganagaraju)  
 
 ---
 
 ## 🚀 **About Me**  
-I’m a **DevOps Engineer** with **1.5+ years** of experience building scalable, secure cloud infrastructure and automating CI/CD pipelines. Passionate about:  
+I’m a **DevOps Engineer** with **1.4+ years** of experience building scalable, secure cloud infrastructure and automating CI/CD pipelines. Passionate about:  
 - **Infrastructure as Code (Terraform, Ansible)**  
 - **Containerization (Docker/Kubernetes)**  
 - **Cloud Platforms (Azure/AWS/GCP)**  
@@ -29,7 +29,7 @@ I’m a **DevOps Engineer** with **1.5+ years** of experience building scalable,
 
 ---
 
-## 💼 **Highlighted Projects**  
+## 💼 **Projects**  
 
 ### 1. **Healthcare Platform (Azure DevOps)**  
    - Automated CI/CD with **GitHub Actions**, reducing deployment time by **50%**.  
