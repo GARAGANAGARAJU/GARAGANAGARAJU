@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 **About Me**  
-I’m a **DevOps Engineer** with **1.4+ years** of experience building scalable, secure cloud infrastructure and automating CI/CD pipelines. Passionate about:  
+I’m a **DevOps Engineer** with **2+ years** of experience building scalable, secure cloud infrastructure and automating CI/CD pipelines. Passionate about:  
 - **Infrastructure as Code (Terraform, Ansible)**  
 - **Containerization (Docker/Kubernetes)**  
 - **Cloud Platforms (Azure/AWS/GCP)**  
